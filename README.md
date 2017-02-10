@@ -1,5 +1,6 @@
 # Algorithm-Implementation-Practise-
-Code Practise on Small assignments of Algorithm implementations. 
+Mini Projects - Small Code Implementations 
 
 
-Repractise
+
+Date Started: Feb 10th 2017
