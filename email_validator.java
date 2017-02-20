@@ -1,6 +1,6 @@
 import java.util.regex.*;
 import java.util.*;
-public class tcs
+public class email_validator
 {
 		public static void main(String args[])
 		{
