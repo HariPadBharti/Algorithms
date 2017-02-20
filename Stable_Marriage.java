@@ -7,7 +7,7 @@ Hari Pad Bhari
  
 Problem 2.0   : Propose and Reject algorithm implemented with the efficient implementations techniques
 Problem 2.1 : Implemeted in each function(a1, a2 and a3) to find most appropriate stable match.
-Problem 2.2 : Considering Men's Preference order from Victor to Zeus, the code performed in function prr.
+Problem 2.2 : Considering Men's Preference order from Victor to Zeus, the code performed in function Stable_Marriage.
 Problem 2.3 : Reverse men Preference order is implemented in a3 function.
 Problem 2.4 : Considering Women's preference order, code is implemented in function a2
 
@@ -16,7 +16,7 @@ Problem 2.4 : Considering Women's preference order, code is implemented in funct
 
 
 import java.util.Arrays;
-public class prr {
+public class Stable_Marriage {
 /*------------------Implementation of Propose and Reject Algorithm in each function---------------*/
 
 public static void a1() 
