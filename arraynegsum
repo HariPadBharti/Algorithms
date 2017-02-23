@@ -1,0 +1,43 @@
+//Given an array of integers, calculate which fraction of its elements are positive, which fraction of its elements are negative, and which fraction of its elements are zeroes, respectively. Print the decimal value of each fraction on a new line.
+
+
+
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int a = in.nextInt();
+        int poscount = 0;
+        int negcount = 0;
+        int zerocount = 0;
+        double pos = 0.0d;
+        double neg = 0.0d;
+        double zero = 0.0d;
+        int arr[] = new int[a];
+        for(int i=0;i<a;i++)
+            {
+            arr[i]= in.nextInt();
+            
+            if(arr[i]>0)
+                poscount+=1;
+            if(arr[i]==0)
+                zerocount+=1;
+            if(arr[i]<0)
+                negcount+=1;
+            
+        }
+        pos = (double)poscount/a;
+        neg = (double)negcount/a;
+        zero = (double)zerocount/a;
+        
+        System.out.println(pos);
+        System.out.println(neg);
+        System.out.println(zero);
+
+        
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }
+}
