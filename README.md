@@ -1,5 +1,5 @@
 ### Algorithm-Implementation-Practise
-<i style = color: "blue">
+<i style="color:blue;font-size:12px;">
 <ul>Mini Projects</ul>
 <ul>Small Code Implementations </ul>
 </i>
