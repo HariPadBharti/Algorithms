@@ -1,4 +1,4 @@
-/* Scheduling Problem*/
+/* Scheduling Problem */
 import java.util.Arrays;
 public class sched
 {
