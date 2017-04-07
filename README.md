@@ -1,7 +1,9 @@
-# Algorithm-Implementation-Practise-
-Mini Projects - Small Code Implementations 
+### Algorithm-Implementation-Practise
+
+<i>Mini Projects
+<br>Small Code Implementations </i>
 
 
-Date Started: Feb 10th 2017
+`Date Started: Feb 10th 2017`
 
-In this repository, several algorithm implementations are included from online code challange problemsets. Coding websites involve LeetCode, HackerRank, and Hacker Earth. Some of them are also randomly chosen questions on other online forums. 
+<p>In this repository, several algorithm implementations are included from online code challange problemsets. Coding websites involve LeetCode, HackerRank, and HackerEarth. Some of them are also randomly chosen questions on other online forums like Codility and Udemy <p>
