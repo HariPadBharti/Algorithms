@@ -1,8 +1,8 @@
 ### Algorithm-Implementation-Practise
-
+<i>
 <ul>Mini Projects</ul>
 <ul>Small Code Implementations </ul>
-
+</i>
 
 
 `Date Started: Feb 10th 2017`
