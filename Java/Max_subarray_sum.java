@@ -2,7 +2,7 @@ package practise;
 
 import java.util.Scanner;
 
-public class Max_sum {
+public class Max_subarray_sum {
 public static void main(String args[])
 {
 	@SuppressWarnings("resource")
