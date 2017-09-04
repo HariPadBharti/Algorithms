@@ -1,3 +1,8 @@
+// @ Hari Pad Bharti
+// Kadane's Algorithm (DP)
+// Complexoty O(n)
+
+
 package practise;
 
 import java.util.Scanner;
